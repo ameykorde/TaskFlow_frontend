@@ -3,7 +3,7 @@ function App() {
 
   return (
     <>
-      <h1>hi, these is task flow frontend app</h1>
+      <h1>hi</h1>
     </>
   )
 }
